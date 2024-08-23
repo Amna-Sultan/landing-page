@@ -1,0 +1,35 @@
+body{
+    font-family:Arial,sans-serif;
+    margin:0;
+    padding:0;
+}
+.container{
+    width:80%;
+    margin:0 auto;
+}
+header{
+    background-color:rgb(29, 29, 20);
+    color:rgb(244, 245, 245); font-size:italic; font-family:cursive;
+    padding:1rem;
+    text-align:center;
+}
+nav ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+nav ul li { 
+    display: inline;
+    margin-right:10px;
+}
+nav ul li a{
+    color:rgb(255, 255, 251);
+    text-decoration:rgb(248, 248, 245);
+}
+footer{
+    background-color:rgb(14, 17, 15);
+    color:rgb(250, 242, 247);
+    text-align:center;
+    padding:1rem;
+}
+
